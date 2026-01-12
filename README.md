@@ -1,16 +1,27 @@
-# my_ui_app
+# Beautiful Sea UI 🐠
 
-A new Flutter project.
+A simple Flutter UI practice project that showcases a calm and aesthetic sea-themed interface.  
+This project is designed to practice Flutter layouts, images, scrolling, and styling.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ⚡ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Sea-inspired theme with calming colors
+- Scrollable UI with multiple sections
+- Beautiful AppBar with rounded bottom
+- Image assets integrated
+- Text styling with bold, italic, and centered alignment
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Android/iOS supported
+
+
+## 🚀 How to Run
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/Manodhari/my_ui_app.git
